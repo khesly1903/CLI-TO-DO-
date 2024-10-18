@@ -1,0 +1,21 @@
+//sample
+[
+  {
+    "task_num": 1,
+    "task": "\u2757Idea came\u2757",
+    "task_status": false,
+    "task_due": "16 10 2024"
+  },
+  {
+    "task_num": 2,
+    "task": "Write code",
+    "task_status": false,
+    "task_due": "17 10 2024"
+  },
+  {
+    "task_num": 3,
+    "task": "Commit on Github",
+    "task_status": false,
+    "task_due": "17 10 2024"
+  }
+]
